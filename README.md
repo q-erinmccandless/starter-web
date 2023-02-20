@@ -6,9 +6,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 As stated above, the main purpose is to provide simple examples for git ttraining demos. 
-hello this is my purpose
+hello this is my purpose, more changes from myfeature branch 
 ## Deployment 
 BLAH BLAH BLAH 
+hehehe
 
 ## How to Contribute
 
