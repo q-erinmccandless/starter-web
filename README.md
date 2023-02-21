@@ -13,3 +13,5 @@ hehehe
 
 ## How to Contribute
 
+## COpyright
+all rights reserved
